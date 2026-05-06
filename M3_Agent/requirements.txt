@@ -1,0 +1,9 @@
+opencv-python-headless 
+pillow 
+matplotlib 
+pydub 
+scikit-learn 
+tqdm 
+openai 
+moviepy
+httpx==0.23.0
