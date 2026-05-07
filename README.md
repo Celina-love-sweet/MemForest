@@ -1,7 +1,7 @@
 # MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging
 
 <p align="center">
-  <img src="/MemForest/MemForest.png" width="95%"><br>
+  <img src="/MemForest.png" width="95%"><br>
   <em>Figure 1: The overview of our method.</em>
 </p>
 
