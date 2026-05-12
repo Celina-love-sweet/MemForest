@@ -1,6 +1,6 @@
 {
-  "OPENAI_API_KEY": "sk-kN06ZpQxSXz0z3AhjnMj4miUUdHrsr0xcN0gpTFT72AgK0HP",
-  "OPENAI_BASE_URL": "https://147ai.com/v1",
+  "OPENAI_API_KEY": "",
+  "OPENAI_BASE_URL": "",
   "MODEL": "gpt-4o-mini",
   "EMBEDDING_MODEL": "text-embedding-3-large"
 }
