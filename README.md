@@ -324,7 +324,7 @@ You can control the dataset selection, the memory keep ratio, and the saving pat
 
 ## 🚀 4. Inference
 
-First, you need to fill in the `api_key` and `base_url` in `MemForest/M3_Agent/configs/api_config.json`.
+First, you need to fill in the `api_key` and `base_url` in `MemForest/M3_Agent/configs/api_config.json` and `MemForest/M3_Agent/config.example.json`.
 
 You can run the model using the compressed memory graphs with the following code.
 
